@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+
+    
     int choice;
     Player<char> *players[2];
     Four_in_a_row_Board<char> *B = new Four_in_a_row_Board<char>();
