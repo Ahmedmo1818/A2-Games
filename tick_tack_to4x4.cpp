@@ -12,6 +12,7 @@ vector<int> newnum(2, -1);
 template <typename T>
 class tick_tack_to4x4Board : public Board<T>
 {
+
 private:
     vector<vector<T>> board;
 
